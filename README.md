@@ -49,21 +49,15 @@ print(o)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+
 <img width="1282" height="368" alt="image" src="https://github.com/user-attachments/assets/5d29bc20-8b02-4c6c-8086-59501ea66a4c" />
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 <img width="1282" height="368" alt="image" src="https://github.com/user-attachments/assets/4b57c2d5-aad2-49e5-8008-1f720ddd550f" />
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+
 <img width="1282" height="368" alt="image" src="https://github.com/user-attachments/assets/dd536119-3acf-42dd-9493-40dcb7aaaf5d" />
 
 ## Result
